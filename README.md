@@ -1,2 +1,3 @@
 # hello-world
 to get github started, create a program that prints hello world
+I am a hobbiest programmer and current student At the University of Waterloo studying Software Engineering. I started programming at the at  the age of 14 with my first programming language being javascript. Now I am proficient in Java, C, Javascript, and Python. I enjoy programming a variety of programs such as games, user interface, and websites. Recently I have gotten into Machine learning and neural networks. I haved with both front-end and back-end development of software systems. I enjoy playing games, reading books, and playing soccer.
